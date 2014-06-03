@@ -17,6 +17,8 @@ echo "Sales Rank : {$result->Items->Item->SalesRank}<br>";
 echo "ASIN : {$result->Items->Item->ASIN}<br>";
 echo "<br><img src=\"" . $result->Items->Item->MediumImage->URL . "\" /><br>";
 
+echo 'example.php is editing';
+
 // Solution 1
 
 //$arr1 = array('Operation' => 'BrowseNodeLookup', 'BrowseNodeId' => '1025616', 'ResponseGroup' => 'TopSellers');
