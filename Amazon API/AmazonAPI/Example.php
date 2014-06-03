@@ -20,7 +20,7 @@ echo "<br><img src=\"" . $result->Items->Item->MediumImage->URL . "\" /><br>";
 echo 'example.php';
 
 
-echo 'hello test line 2';
+echo 'hello test line 2222222222222222222222222222222222222222222222222';
 
 // Solution 1
 
