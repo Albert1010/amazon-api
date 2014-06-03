@@ -17,7 +17,7 @@ echo "Sales Rank : {$result->Items->Item->SalesRank}<br>";
 echo "ASIN : {$result->Items->Item->ASIN}<br>";
 echo "<br><img src=\"" . $result->Items->Item->MediumImage->URL . "\" /><br>";
 
-echo 'example.php is editing';
+echo 'example.php is editing is performed';
 
 // Solution 1
 
